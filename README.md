@@ -1,6 +1,6 @@
 # deltarobotascii
 Delta Robot ASCII Art made using DeepAA by [OsciiArt](https://github.com/AIoT-MLSys-Lab/DeepAA) 
-<h6>
+<div>
   　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　__7〕　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　＿,＿、　　　　　　　　 ′l jﾊ_　　　　　　　　　　　　　
@@ -30,4 +30,4 @@ Delta Robot ASCII Art made using DeepAA by [OsciiArt](https://github.com/AIoT-ML
 　　　　　　　　　　　　　　　　　　`壬三ミl　　　　　 '{¨|],　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　 　 ﾋlソ　　　　 　 ￣　　　　　　　　　　　　　　　　　　　　
 
-</h6>
+</div>
